@@ -15,7 +15,6 @@ To get started, clone the repository using Git:
 ```bash
 git clone https://github.com/ry8k/Caesar-Cipher-Encrypter
 cd Caesar-Cipher-Encryper
-cd project
 ```
 
 ### 2. Install Required Libraries
